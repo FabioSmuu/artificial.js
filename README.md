@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="https://cdn.discordapp.com/attachments/1035935582762844223/1056980288007319672/logo.svg" width="546" alt="artificial.js" /></a>
+		<a href="#"><img src="/logo.svg" width="546" alt="artificial.js" /></a>
 	</p>
 	<br>
 	<p>
