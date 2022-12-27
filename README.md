@@ -42,7 +42,7 @@ const generation = new Generation()
 console.log(generation)
 ```
 
-## Links
+## Quick Links
 
 - [Documentation][docs]
 - [GitHub][github]
@@ -50,8 +50,7 @@ console.log(generation)
 
 ## Contributing
 
-No contributors at the moment.
-We will have [documentation][docs]. 
+Pull requests are welcome! If you see something you'd like to add, please do. For drastic changes, please open an issue first.
 
 # License
 
