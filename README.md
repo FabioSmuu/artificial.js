@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="/logo.svg" width="546" alt="artificial.js" /></a>
+		<a href="https://www.npmjs.com/package/artificial.js"><img src="https://raw.githubusercontent.com/FabioSmuu/artificial.js/main/logo.svg" width="546" alt="artificial.js" /></a>
 	</p>
 	<br>
 	<p>
@@ -12,7 +12,8 @@
 
 ## About
 
-This is an ongoing project intended to make it easier to use neural network creation, genetic algorithms, and other data science and machine learning skills.
+This is an ongoing project intended to make it easier to 
+use neural network creation, genetic algorithms, and other data science and machine learning skills.
 
 However, the npm module is under development.
 
@@ -24,6 +25,7 @@ Install artificial.js:
 
 ```sh-session
 npm install artificial.js
+yarn add artificial.js
 ```
 
 Testing that the module is working.:
@@ -42,6 +44,7 @@ console.log(generation)
 
 ## Links
 
+- [Documentation][docs]
 - [GitHub][github]
 - [npm][npm]
 
@@ -55,6 +58,6 @@ We will have [documentation][docs].
 This project is free software; you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License][license] as published by the Free Software Foundation, version 2.1.
 
 [license]: https://github.com/fabiosmuu/artificial.js/tree/main/LICENSE
-[docs]: https://github.com/fabiosmuu/artificial.js/tree/main/docs
+[docs]: https://artificial.js.org
 [github]: https://github.com/fabiosmuu/artificial.js
 [npm]: https://www.npmjs.com/package/artificial.js
