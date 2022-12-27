@@ -1,0 +1,64 @@
+{
+    "name": "artificial.js",
+    "version": "1.0.0",
+    "author": "FabioSmuu",
+    "license": {
+        "type": "GPL-2.0+",
+        "url": "https://github.com/fabiosmuu/artificial.js/tree/main/LICENSE"
+    },
+    "description": "This is an ongoing project intended to make it easier to use neural network creation, genetic algorithms, and other data science and machine learning skills.",
+    "main": "./src/index.js",
+    "keywords": [
+        "rna",
+        "neuron",
+        "weight",
+        "bias",
+        "rede-neural",
+        "neural",
+        "neural-network",
+        "generation",
+        "genetic-algorithm",
+        "genetic",
+        "algorithm",
+        "pooling",
+        "normalize",
+        "learning",
+        "ai",
+        "ia",
+        "inteligencia",
+        "inteligence",
+        "artificial-inteligence",
+        "artificial",
+        "ArcTan",
+        "BentIdentity",
+        "BinaryStep",
+        "Gaussian",
+        "Identity",
+        "LeakyReLU",
+        "Swish",
+        "ReLU",
+        "SELU",
+        "Sigmoid",
+        "SigmoidRcional",
+        "HardSigmoid",
+        "SiLU",
+        "Sinc",
+        "Sinusoid",
+        "SoftSign",
+        "SoftPlus",
+        "TanH",
+        "PReLU",
+        "ELU"
+    ],
+    "files": [
+        "src"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FabioSmuu/artificial.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/FabioSmuu/artificial.js/issues"
+    },
+    "homepage": "https://artificial.js.org",
+}
